@@ -195,7 +195,7 @@ section > h2 {
 }
 
 section > p {
-	padding-top: 50px;
+	padding: 50px 10px 10px 10px;
 }
 
 div > h1 {
