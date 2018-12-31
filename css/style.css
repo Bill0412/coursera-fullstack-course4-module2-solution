@@ -189,7 +189,6 @@ section > h2 {
 	margin-top: 0px;
 	top: 0px;
 	right: 0px;
-	font-size: 40px;
 	width: 200px;
 	text-align: center;
 }
@@ -201,6 +200,15 @@ section > p {
 div > h1 {
 	width: 100%;
 	text-align: center;
+	font-size: 175%;
+}
+
+h2 {
+	font-size: 125%;
+}
+
+section, section > h2 {
+	border: 1px solid black;
 }
 
 .row {
